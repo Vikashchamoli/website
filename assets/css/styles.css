@@ -423,8 +423,9 @@ height: 100%;
       .email-icon{position: absolute;
         top: 215px;
         }
-        .home__button{top: -12px;
-          left: 87px;}
+        .home__button{  top: -19px;
+  left: 100px;
+  position: relative;}
 }
 
 
