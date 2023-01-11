@@ -426,6 +426,9 @@ height: 100%;
         .home__button{  top: -19px;
   left: 100px;
   position: relative;}
+  .home__title {
+    padding-left: 0vw;}
+
 }
 
 
